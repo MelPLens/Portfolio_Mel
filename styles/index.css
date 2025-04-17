@@ -170,6 +170,8 @@ header .switch {
   width: 100%;
   height: 100%;
   z-index: -1;
+  border-radius: 10px;
+  border: 2px solid var(--white);
 }
 #home .container-home {
   display: flex;
@@ -181,6 +183,15 @@ header .switch {
 }
 #home .container-home .image-home {
   width: min(80%, 500px);
+  border-radius: 10px;
+  border: 2px solid var(--white);
+
+  
+}
+
+.image-home{
+  border-radius: 10px;
+  border: 2px solid var(--white);
 }
 #home article {
   display: flex;
