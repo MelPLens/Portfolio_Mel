@@ -3,7 +3,7 @@ function SendEmail() {
     const email = document.getElementById("email").value
     const message = document.getElementById("message").value
     Email.send({
-        SecureToken: 'ed5407c6-f07c-41b1-ae76-fba516d813cf',
+        SecureToken: '8d84f3bc-1432-42c2-8d2e-3bd5e559f2fe',
         To: 'bm977753@gmail.com',
         From: "bm977753@gmail.com",
         Subject: "fORM PORTÓLIO✨⚠️:",
