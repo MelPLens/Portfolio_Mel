@@ -1,0 +1,13 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+  <!-- Bloco de colunas representando dados -->
+  <rect x="6" y="12" width="14" height="40" fill="#f90" stroke="#000" stroke-width="2"/>
+  <rect x="25" y="12" width="14" height="40" fill="#fbbd4a" stroke="#000" stroke-width="2"/>
+  <rect x="44" y="12" width="14" height="40" fill="#f90" stroke="#000" stroke-width="2"/>
+
+  <!-- Símbolo de consulta (lupa) -->
+  <circle cx="48" cy="48" r="6" fill="#fff" stroke="#000" stroke-width="2"/>
+  <line x1="52" y1="52" x2="58" y2="58" stroke="#000" stroke-width="2"/>
+
+  <!-- Texto opcional ou símbolo -->
+  <!-- <text x="32" y="60" font-family="Arial" font-size="8" fill="#000" text-anchor="middle">Athena</text> -->
+</svg>

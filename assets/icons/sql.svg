@@ -1,0 +1,11 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+  <!-- Banco de dados estilizado -->
+  <ellipse cx="32" cy="16" rx="20" ry="6" fill="#ffffff" stroke="#000" stroke-width="2"/>
+  <path d="M12 16v20c0 3.3 9 6 20 6s20-2.7 20-6V16" fill="#ffffff" stroke="#000" stroke-width="2"/>
+  <path d="M12 36v10c0 3.3 9 6 20 6s20-2.7 20-6V36" fill="#ffffff" stroke="#000" stroke-width="2"/>
+
+  <!-- Texto SQL centralizado -->
+  <text x="32" y="40" font-family="Arial, sans-serif" font-size="10" fill="#000" text-anchor="middle" font-weight="bold">
+    SQL
+  </text>
+</svg>
